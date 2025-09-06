@@ -1,5 +1,3 @@
-## Architecture
-
-### Overview
-A latency-aware **Neural Architecture Search (NAS)** pipeline with **weight-sharing supernet**, **evolutionary search** (multi-objective), **knowledge distillation (KD)**, and **edge deployment** (ONNX/TFLite).
-
+# nas-edge-kd
+Starter structure for NAS + KD edge project.
+See configs/ and src/ for modules.

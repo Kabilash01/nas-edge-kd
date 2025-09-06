@@ -1,0 +1,12 @@
+torch
+torchvision
+timm
+pyyaml
+onnx
+onnxruntime
+ptflops
+numpy
+matplotlib
+tqdm
+onnxsim
+scikit-learn
